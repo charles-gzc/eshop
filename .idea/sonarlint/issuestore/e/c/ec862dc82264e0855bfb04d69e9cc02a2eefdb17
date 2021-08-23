@@ -1,0 +1,25 @@
+
+Fsquid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ĞÓ§Şæ.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(©ñ¬œúÿÿÿÿ8¹Ìßæ.
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ô®ÆÒüÿÿÿÿ8áŠßæ.
+V
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ÿ¾ôÙ8É°Œßæ.
+Fsquid:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§ê ßæ.
+V
+squid:S106k"9Replace this use of System.out or System.err by a logger.(Èª¢û8œÚ‘ßæ.
+bsquid:S2147b"DCombine this catch with the one at line 96, which has the same body.(¹¯Óˆ8§ê ßæ.
+Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆô Şæ.
+{
+squid:S135F"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8œÚ‘ßæ.
+U
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ûå“T8™º¦Şæ.
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(¤ÿÿııÿÿÿÿ8§ê ßæ.
+dsquid:S2142/"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ĞÓ§Şæ.
+dsquid:S2142`"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8§ê ßæ.
+Fsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§ê ßæ.
+Xsquid:S1141%"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ĞÓ§Şæ.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(½«Œèùÿÿÿÿ8®Š©Şæ.

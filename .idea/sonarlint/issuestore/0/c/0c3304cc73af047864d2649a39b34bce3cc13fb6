@@ -1,0 +1,30 @@
+
+]squid:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148~"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+t
+squid:S135G"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+]squid:S2142a"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ÂÞ•ž
+T
+squid:S106`"9Replace this use of System.out or System.err by a logger.(¹ôñÌùÿÿÿÿ
+?squid:S1148b"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148u"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Xsquid:S1075]"ARefactor your code to get this URI from a customizable parameter.(Î¥àÇ
+O
+squid:S106B"9Replace this use of System.out or System.err by a logger.(üÐµË
+[squid:S2147c"DCombine this catch with the one at line 97, which has the same body.(¹¯Óˆ
+P
+squid:S106†"9Replace this use of System.out or System.err by a logger.(Èª¢û
+Hsquid:S00108k")Either remove or fill this block of code.(”ý¾8°íÛõê.
+Qsquid:S1141&"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+N
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ûå“T
+?squid:S1148d"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¡Úóû
+Xsquid:S1075>"ARefactor your code to get this URI from a customizable parameter.(Î¥àÇ
+T
+squid:S1063"9Replace this use of System.out or System.err by a logger.(½«Œèùÿÿÿÿ
+?squid:S11485"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

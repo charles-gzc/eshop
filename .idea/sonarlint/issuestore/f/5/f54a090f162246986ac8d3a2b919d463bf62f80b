@@ -1,0 +1,9 @@
+
+wsquid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Ëè¯8èˆ»Íê.
+Fsquid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èˆ»Íê.
+dsquid:S2142d"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8èˆ»Íê.
+dsquid:S2142U"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8èˆ»Íê.
+Gsquid:S1948!"+Make "collector" transient or serializable.(€­¿ıÿÿÿÿ
+usquid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô‰Ø‰ûÿÿÿÿ
+Fsquid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èˆ»Íê.
+asquid:S1155`">Use isEmpty() to check whether the collection is empty or not.(Õæ‡°ùÿÿÿÿ8èˆ»Íê.

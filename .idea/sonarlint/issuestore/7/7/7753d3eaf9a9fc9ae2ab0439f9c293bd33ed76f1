@@ -1,0 +1,10 @@
+
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÑêÀ
+jsquid:S1192,"SDefine a constant instead of duplicating this literal "product:inventory:" 3 times.(è›Ö
+O
+squid:S106C"9Replace this use of System.out or System.err by a logger.(à½âƒ
+Wsquid:S1854H"@Remove this useless assignment to local variable "inventoryCnt".(ÀàŸ×
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ùûäÏ
+?squid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

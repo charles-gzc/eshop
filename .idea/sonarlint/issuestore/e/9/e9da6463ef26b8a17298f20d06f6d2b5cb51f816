@@ -1,0 +1,6 @@
+
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¶é€ûÿÿÿÿ
+hsquid:S3776&"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¶¡™N
+?squid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Osquid:S3516&"9Refactor this method to not always return the same value.(¶¡™N

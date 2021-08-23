@@ -1,0 +1,10 @@
+
+?squid:S1148r"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+O
+squid:S106S"9Replace this use of System.out or System.err by a logger.(»¹ùÞ
+Wsquid:S1854G";Remove this useless assignment to local variable "endTime".(²ÿèùýÿÿÿÿ
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(üÎÛýÿÿÿÿÿ
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ž£ßöøÿÿÿÿ
+gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(Ý„Ë°ûÿÿÿÿ

@@ -1,0 +1,4 @@
+
+fsquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²œ¹å
+usquid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(äãÕ‡ûÿÿÿÿ
+{squid:S1488L"dImmediately return this expression instead of assigning it to the temporary variable "jedisCluster".(ÛÝí‚

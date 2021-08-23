@@ -1,0 +1,9 @@
+
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Àžˆµ8Àÿ½ïæ.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ÿ­Þ§ÿÿÿÿÿ8êÍ½ïæ.
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(êíå8¬ß¼ïæ.
+Fsquid:S11480"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8•ê¹ïæ.
+>squid:S2885" Make "sdf" an instance variable.(µñ‹Ì8¶Ó¢ïæ.

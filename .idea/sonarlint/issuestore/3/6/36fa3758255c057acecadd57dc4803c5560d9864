@@ -1,0 +1,16 @@
+
+V
+squid:S106a"9Replace this use of System.out or System.err by a logger.(êíå8ÝŠíîæ.
+isquid:S2184m"FCast one of the operands of this multiplication operation to a "long".(´Î”Úþÿÿÿÿ8º¤îîæ.
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(Àžˆµ8º¤îîæ.
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ÿ­Þ§ÿÿÿÿÿ8³úíîæ.
+Fsquid:S1148e"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8àÀëîæ.
+\
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(ë±Ø¬ÿÿÿÿÿ8º¤îîæ.
+[
+squid:S106s"9Replace this use of System.out or System.err by a logger.(»‡»«þÿÿÿÿ8º¤îîæ.
+>squid:S2885" Make "sdf" an instance variable.(µñ‹Ì8ØµÞîæ.
+dsquid:S2142n"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8º¤îîæ.
+Fsquid:S1148o"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8º¤îîæ.
